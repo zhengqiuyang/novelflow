@@ -1,0 +1,15 @@
+{
+  "name": "novelflow",
+  "version": "0.1.0",
+  "description": "连载翻译流水线核心：术语锁定引擎（中文网文专名规则）+ 人物状态卡 + 一致性闸门。300 章后一致性才是生死线。",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node --test",
+    "demo": "node src/demo.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "MIT"
+}
